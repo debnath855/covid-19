@@ -14,4 +14,5 @@ State Total Count(Bar Chart): State-wise visualization of total cases counts to 
 COVID-19 impact.
 # Tool Used
 Jupyter Notebook
+
 Pycharm
