@@ -1,7 +1,7 @@
-## COVID-19 Dashboard
+# COVID-19 Dashboard
 An interactive web-based dashboard built using Python's Dash library,flask for the web deploymentand plotly to visualize
 the spread and impact of the COVID-19 pandemic across India.
-# Features
+## Features
 Summary Cards: display total cases, active cases and deaths at the top of the the dashboard.
 
 Comodities Total Count(Line Graph): A line chart showing transitions of various records from confirmed 
@@ -12,7 +12,7 @@ across confirmed, recovered and deceased.
 
 State Total Count(Bar Chart): State-wise visualization of total cases counts to identify regional
 COVID-19 impact.
-# Tool Used
+## Tool Used
 Jupyter Notebook
 
 Pycharm
