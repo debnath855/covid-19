@@ -1,5 +1,5 @@
 # COVID-19 Dashboard
-An interactive web-based dashboard built using Python's Dash library,flask for the web deploymentand plotly to visualize
+An interactive web-based dashboard built using Python's Dash library,flask for the web deployment and plotly to visualize
 the spread and impact of the COVID-19 pandemic across India.
 ## Features
 Summary Cards: display total cases, active cases and deaths at the top of the the dashboard.
